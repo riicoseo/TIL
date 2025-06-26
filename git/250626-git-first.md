@@ -29,7 +29,7 @@
 ---
 
 ## 3. Git 설정
-```bash
+
 # 사용자 정보 설정
 git config --global user.name "Your Name"
 git config --global user.email "your.email@example.com"
