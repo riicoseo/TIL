@@ -37,6 +37,7 @@ git config --global user.email "your.email@example.com"
 # 설정 확인
 git config --list
 
+---
 
 ## 4. Git 명령어 
 
@@ -53,6 +54,7 @@ git add .                # 전체 변경 사항 추가
 # 커밋
 git commit 
 
+---
 
 ## 5. Git 브랜치 
 
@@ -72,6 +74,8 @@ git merge new-branch
 
 # 브랜치 삭제
 git branch -d new-branch
+
+---
 
 ## 6. Git 원격 저장소 연결 및 동기화
 # 원격 저장소 정보 확인
